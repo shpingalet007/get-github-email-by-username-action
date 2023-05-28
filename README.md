@@ -1,3 +1,10 @@
+----
+
+### ⚠️ THAT'S A FORK
+This fork is used to promote [PR #4](https://github.com/evvanErb/get-github-email-by-username-action/pull/4) to the main repository
+
+----
+
 # get-github-email-by-username-action
 GitHub Actions Plugin to get a GitHub user's email based on their username
 
